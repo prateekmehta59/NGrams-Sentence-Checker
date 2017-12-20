@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "civil-song-184618",
+  "private_key_id": "5cb349a02cd00ad1e42a8a86d502aa243b9d16ef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBuQExK0dU79ZM\nHaqWT4erttHoDzi8aeCx+zl5bziJ7Kh/V8jwqjJ6utumV1n2212RSbsBFHLM7Y29\nB6POCLOZMjYpU6tyt2HkK3mt58GA5msZw5Q1gHme0xbn0zK4Axs1jobQjKjjfIRI\nDeNgiYaJRbfrLkmgeMS/OgwSaGyr/wnmFcn0zkcjIkmZDzW0O5S57QtLG3UKpmoZ\nwKRevq05H81ZQI1hFjuGF0aPBHRsNQ9uzhU91qayF7B/QTOJLCjMl2QW8DI0ug6O\nS2/4raVAZilVkLSnabkpc4rdrINoWMtoowKRaEUH0imu2diXR3NXSS834sF15wmL\noewAkOShAgMBAAECggEABeyCbGKNeovgPKkAVDr7vAjx1afgATZ3YxfqpbOMif6v\nNyAsBkx9EU7VHErB5vQlsgV8OwPpIApAXiQ9eoWeeNf9yyEabj5Md3fLH3HVo2uA\nYUv/VGzAo1ZDBj0piRIavxYz+g0AFd9DFAk9L5C7CQf1UCM06AvjX9HeiEJSVubO\nsioPx4OQEqNg50PB7XMTVwCfz7Oe8d/dVjgokf+gSdXMX3fxg8TK1L69gCmH99al\ncQwMAu8eVTb+lyX/NoduPgDCB1hDljd/zUNl7WmoI39Q9R2CIFuYT4IjbjMkex8M\n3JU4MXiWjB63I9/PflmzOzlE9v1ry+Kf4BkODDi8kQKBgQDl7c8j/NO3JxXsVhxd\nc0qPKS8GP+i3hkyAMFgQ+kLaaVwBe09X8msb+L+ZfmuGiyYzqHOW62yM/iNFqDdR\nkZlM3LoA4dQyNwMXoWkv+yXcHl0Q+BP2/+VfQDjehVaEDFoCis1llFkasFLcz/UN\noE20ofHkamU1nVNfjCaTjYbzUQKBgQDXsDq2NsiMhp79OOaCWol/vT+atL4UGgog\n9QqeFjGNuZEazOuZJ5LU8mZsMW49PyHfPTGNmOsqANAPZDZxIQPd6t3vMq1GDRzH\nhBpgJClCVL8NJhOB9fQOBR113EZLVM5NIgFsxiijqSVSXjeoTXSCVjTFK0Aldnda\nKeaMknVoUQKBgQDaIHH7ZRYA0g6lR8ffC8n26I4Y8rY2rSyUC8jwSkrz4zIKoc3S\n1EKypZg26MzfNdEG/s6xpSQ02b/ijEP2mRcC6P94aMUi4jeHynP8tdjj6tZFi+N8\n1qTmaQnKaFp8KS+W69ERhdvGSvJBUvPaenJdY6kUFa9wXpFCurW6E3CsEQKBgATe\n7fR/eDf0MlL1nf8DnGdOFsmfm0tI60GjRwIa7jONJUG9rvReeGpmrvlyhFLNwi4Q\na7YO5gCk1A4E7VXQsQ2p6Ckms9MJKMU4rn/NUUE2OLpLSdV9gG1woCGxP8UjvSTw\nx6d1MiXABB/AEPG0DhWDbN2nBGPUMQ3QNGyoQg6BAoGAebjwPmJ09Y80F7kPKx47\nRWKH/yjJZOHpf1oDFw+W+8wGg8wo+WSyf6bctcMKQb/LnwdEPerGYi/qMsUNodZx\nbbDfSHgli9JI4CM6oJwsxNM7g/lBOtskxJCA1aegr3/HpW0ctBE++SuytcxI8A+p\nVMW8KjT/tfuY+IjL/bmk09w=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-recognition@civil-song-184618.iam.gserviceaccount.com",
+  "client_id": "106009727187198779806",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-recognition%40civil-song-184618.iam.gserviceaccount.com"
+}

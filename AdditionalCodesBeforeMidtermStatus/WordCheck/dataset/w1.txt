@@ -1,0 +1,4 @@
+275	a	a
+31	a	aaa
+29	a	all
+45	a	an
